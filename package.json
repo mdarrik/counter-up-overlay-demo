@@ -1,0 +1,17 @@
+{
+  "name": "counter-up-overlay-demo",
+  "version": "0.0.0",
+  "description": "A demo obs overlay using the counter-up2 library. Made for Guthron",
+  "main": "index.js",
+  "repository": "https://www.github.com/mdarrik/counter-up-overlay-demo",
+  "author": "Darrik Moberg",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "counterup2": "^1.0.4",
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
